@@ -10,12 +10,12 @@
 
 **Instructions:**
 
-1. **Project Setup:**
+1. **Project Setup:**...
    - Create a new project folder named `real-time-notes`.
    - Set up a backend using Express.js and Socket.io.
    - Initialize a frontend using React.
 
-2. **Application Features:**
+2. **Application Features:**...
    - Users should be able to:
      - Join a specific "room" to collaborate on a shared note.
      - See real-time updates when another user edits the note.
@@ -27,12 +27,12 @@
    - Create RESTful endpoints for saving and retrieving notes.
    - Implement room-based communication for collaborative editing.
 
-4. **Frontend Requirements:**
+4. **Frontend Requirements:**...
    - Implement a UI for creating, viewing, and editing notes.
    - Allow users to join specific rooms via a unique URL or code.
    - Display a list of online users in each room.
 
-5. **State Management:**
+5. **State Management:**...
    - Use React state and context API to manage application state.
    - Handle incoming real-time data efficiently to update UI.
 
